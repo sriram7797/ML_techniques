@@ -1,2 +1,2 @@
 # Machine Learning Techniques
-Jupyter notebook for machine learning techniques coded in python
+Basics of machine learning and deep learning are implemented using python, pytorch and keras.
